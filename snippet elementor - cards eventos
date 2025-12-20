@@ -1,558 +1,726 @@
 <div class="poster-carousel swiper" id="eventCarousel">
   <div class="swiper-wrapper" id="eventSlides">
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="RESIDENTS: RENÉ BY VAGALUME" data-venue="Vagalume — Tulum" data-meta="02 DEC · 20:00 - 01:00" data-image="https://images.unsplash.com/photo-1671309293003-ff38cf44796c?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/photo-1671309293003-ff38cf44796c?auto=format&fit=crop&w=800&q=80" alt="RESIDENTS: RENÉ BY VAGALUME" loading="lazy" />
-        </div>
-        <div class="poster-body">
-          <div class="poster-title">RESIDENTS: RENÉ BY VAGALUME</div>
-          <div class="poster-sub">Vagalume — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">02 <span>DEC</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">20:00 - 01:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
-        </div>
-      </article>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Dubfire x Sinner" data-venue="Vagalume Tulum" data-meta="20/12/25 · 15:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/Vagalumebeachclub.png">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-dubfire-sinner-tulum.png" alt="Buy tickets for Dubfire x Sinner electronic music event in Tulum" loading="lazy" />
     </div>
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="NEON NIGHTS" data-venue="Papaya Playa — Tulum" data-meta="05 DEC · 22:00 - 04:00" data-image="https://images.unsplash.com/photo-1706148817964-08251bc8cf8c?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/photo-1706148817964-08251bc8cf8c?auto=format&fit=crop&w=800&q=80" alt="NEON NIGHTS" loading="lazy" />
+    <div class="poster-body">
+      <div class="poster-title">Dubfire x Sinner</div>
+      <div class="poster-sub">Vagalume Tulum</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">20 <span>12/25</span></div>
         </div>
-        <div class="poster-body">
-          <div class="poster-title">NEON NIGHTS</div>
-          <div class="poster-sub">Papaya Playa — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">05 <span>DEC</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">22:00 - 04:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">15:00</div>
         </div>
-      </article>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/45927/1323803" target="_blank" rel="noopener">Comprar tickets</a>
     </div>
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="TROPICAL BEATS" data-venue="Zamna — Tulum" data-meta="08 DEC · 18:00 - 23:00" data-image="https://images.unsplash.com/photo-1736175549681-c24c552da1e2?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/photo-1736175549681-c24c552da1e2?auto=format&fit=crop&w=800&q=80" alt="TROPICAL BEATS" loading="lazy" />
-        </div>
-        <div class="poster-body">
-          <div class="poster-title">TROPICAL BEATS</div>
-          <div class="poster-sub">Zamna — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">08 <span>DEC</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">18:00 - 23:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
-        </div>
-      </article>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Christmas Dinner – Gitano Beach" data-venue="Gitano Beach" data-meta="24/12/25 · 19:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/gitano-beach-tulum-mesas.jpg">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-christmas-dinner-gitano-beach-tulum.jpg" alt="Buy tickets for Christmas Dinner at Gitano Beach Tulum music and dining experience" loading="lazy" />
     </div>
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="DIGITAL DREAMS" data-venue="Gitano — Tulum" data-meta="12 DEC · 21:00 - 02:00" data-image="https://images.unsplash.com/photo-1759185422905-57572ad69125?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/photo-1759185422905-57572ad69125?auto=format&fit=crop&w=800&q=80" alt="DIGITAL DREAMS" loading="lazy" />
+    <div class="poster-body">
+      <div class="poster-title">Christmas Dinner – Gitano Beach</div>
+      <div class="poster-sub">Gitano Beach</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">24 <span>12/25</span></div>
         </div>
-        <div class="poster-body">
-          <div class="poster-title">DIGITAL DREAMS</div>
-          <div class="poster-sub">Gitano — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">12 <span>DEC</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">21:00 - 02:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">19:00</div>
         </div>
-      </article>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/46564/811305" target="_blank" rel="noopener">Comprar tickets</a>
     </div>
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="SUNSET CONCERT" data-venue="Casa Malca — Tulum" data-meta="15 DEC · 19:00 - 00:00" data-image="https://images.unsplash.com/photo-1659456690967-bad366de0000?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/photo-1659456690967-bad366de0000?auto=format&fit=crop&w=800&q=80" alt="SUNSET CONCERT" loading="lazy" />
-        </div>
-        <div class="poster-body">
-          <div class="poster-title">SUNSET CONCERT</div>
-          <div class="poster-sub">Casa Malca — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">15 <span>DEC</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">19:00 - 00:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
-        </div>
-      </article>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Christmas Dinner – Gitano Jungle" data-venue="Gitano Jungle" data-meta="24/12/25 · 19:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/gitano-beach-tulum-mesas.jpg">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-christmas-dinner-gitano-jungle-tulum.webp.jpg" alt="Buy tickets for Christmas Dinner at Gitano Jungle Tulum immersive jungle dinner event" loading="lazy" />
     </div>
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="BEACH PARTY" data-venue="Taboo Beach Club — Tulum" data-meta="18 DEC · 17:00 - 22:00" data-image="https://images.unsplash.com/photo-1704830657561-a6a663931172?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/photo-1704830657561-a6a663931172?auto=format&fit=crop&w=800&q=80" alt="BEACH PARTY" loading="lazy" />
+    <div class="poster-body">
+      <div class="poster-title">Christmas Dinner – Gitano Jungle</div>
+      <div class="poster-sub">Gitano Jungle</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">24 <span>12/25</span></div>
         </div>
-        <div class="poster-body">
-          <div class="poster-title">BEACH PARTY</div>
-          <div class="poster-sub">Taboo Beach Club — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">18 <span>DEC</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">17:00 - 22:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">19:00</div>
         </div>
-      </article>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/46560/811305" target="_blank" rel="noopener">Comprar tickets</a>
     </div>
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="DJ MASTERS NIGHT" data-venue="Confessions — Tulum" data-meta="20 DEC · 23:00 - 05:00" data-image="https://images.unsplash.com/photo-1572327918315-173bc4545e39?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/photo-1572327918315-173bc4545e39?auto=format&fit=crop&w=800&q=80" alt="DJ MASTERS NIGHT" loading="lazy" />
-        </div>
-        <div class="poster-body">
-          <div class="poster-title">DJ MASTERS NIGHT</div>
-          <div class="poster-sub">Confessions — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">20 <span>DEC</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">23:00 - 05:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
-        </div>
-      </article>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Dubfire x Sinner" data-venue="Vagalume Tulum" data-meta="20/12/25 · 15:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/Vagalumebeachclub.png">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-dubfire-sinner-tulum.png" alt="Buy tickets for Dubfire x Sinner electronic music event in Tulum" loading="lazy" />
     </div>
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="FESTIVAL DE LUCES" data-venue="Cenote Casa Tortuga — Tulum" data-meta="22 DEC · 20:00 - 03:00" data-image="https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&w=800&q=80" alt="FESTIVAL DE LUCES" loading="lazy" />
+    <div class="poster-body">
+      <div class="poster-title">Dubfire x Sinner</div>
+      <div class="poster-sub">Vagalume Tulum</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">20 <span>12/25</span></div>
         </div>
-        <div class="poster-body">
-          <div class="poster-title">FESTIVAL DE LUCES</div>
-          <div class="poster-sub">Cenote Casa Tortuga — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">22 <span>DEC</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">20:00 - 03:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">15:00</div>
         </div>
-      </article>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/45927/1323803" target="_blank" rel="noopener">Comprar tickets</a>
     </div>
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="TROPICAL NIGHTLIFE" data-venue="Bonbonniere — Tulum" data-meta="24 DEC · 21:00 - 04:00" data-image="https://images.unsplash.com/photo-1758220829551-6d02d06798c7?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/photo-1758220829551-6d02d06798c7?auto=format&fit=crop&w=800&q=80" alt="TROPICAL NIGHTLIFE" loading="lazy" />
-        </div>
-        <div class="poster-body">
-          <div class="poster-title">TROPICAL NIGHTLIFE</div>
-          <div class="poster-sub">Bonbonniere — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">24 <span>DEC</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">21:00 - 04:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
-        </div>
-      </article>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Christmas Dinner – Gitano Beach" data-venue="Gitano Beach" data-meta="24/12/25 · 19:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/gitano-beach-tulum-mesas.jpg">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-christmas-dinner-gitano-beach-tulum.jpg" alt="Buy tickets for Christmas Dinner at Gitano Beach Tulum music and dining experience" loading="lazy" />
     </div>
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="ELECTRONIC STAGE" data-venue="Bagatelle — Tulum" data-meta="26 DEC · 22:00 - 02:00" data-image="https://images.unsplash.com/photo-1624929303661-22c5bce0169b?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/photo-1624929303661-22c5bce0169b?auto=format&fit=crop&w=800&q=80" alt="ELECTRONIC STAGE" loading="lazy" />
+    <div class="poster-body">
+      <div class="poster-title">Christmas Dinner – Gitano Beach</div>
+      <div class="poster-sub">Gitano Beach</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">24 <span>12/25</span></div>
         </div>
-        <div class="poster-body">
-          <div class="poster-title">ELECTRONIC STAGE</div>
-          <div class="poster-sub">Bagatelle — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">26 <span>DEC</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">22:00 - 02:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">19:00</div>
         </div>
-      </article>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/46564/811305" target="_blank" rel="noopener">Comprar tickets</a>
     </div>
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="LASER SHOW" data-venue="IT Tulum — Tulum" data-meta="28 DEC · 23:00 - 05:00" data-image="https://images.unsplash.com/photo-1493308903033-e622ac815e5d?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/photo-1493308903033-e622ac815e5d?auto=format&fit=crop&w=800&q=80" alt="LASER SHOW" loading="lazy" />
-        </div>
-        <div class="poster-body">
-          <div class="poster-title">LASER SHOW</div>
-          <div class="poster-sub">IT Tulum — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">28 <span>DEC</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">23:00 - 05:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
-        </div>
-      </article>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Christmas Dinner – Gitano Jungle" data-venue="Gitano Jungle" data-meta="24/12/25 · 19:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/gitano-beach-tulum-mesas.jpg">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-christmas-dinner-gitano-jungle-tulum.webp.jpg" alt="Buy tickets for Christmas Dinner at Gitano Jungle Tulum immersive jungle dinner event" loading="lazy" />
     </div>
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="BEACH CLUB" data-venue="Mia Beach Club — Tulum" data-meta="30 DEC · 16:00 - 23:00" data-image="https://images.unsplash.com/photo-1690532583797-79797911d183?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/photo-1690532583797-79797911d183?auto=format&fit=crop&w=800&q=80" alt="BEACH CLUB" loading="lazy" />
+    <div class="poster-body">
+      <div class="poster-title">Christmas Dinner – Gitano Jungle</div>
+      <div class="poster-sub">Gitano Jungle</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">24 <span>12/25</span></div>
         </div>
-        <div class="poster-body">
-          <div class="poster-title">BEACH CLUB</div>
-          <div class="poster-sub">Mia Beach Club — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">30 <span>DEC</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">16:00 - 23:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">19:00</div>
         </div>
-      </article>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/46560/811305" target="_blank" rel="noopener">Comprar tickets</a>
     </div>
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="NEW YEAR'S EVE" data-venue="Tantra — Tulum" data-meta="31 DEC · 22:00 - 06:00" data-image="https://images.unsplash.com/photo-1740432271705-e45aeb5c4ec2?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/photo-1740432271705-e45aeb5c4ec2?auto=format&fit=crop&w=800&q=80" alt="NEW YEAR'S EVE" loading="lazy" />
-        </div>
-        <div class="poster-body">
-          <div class="poster-title">NEW YEAR'S EVE</div>
-          <div class="poster-sub">Tantra — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">31 <span>DEC</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">22:00 - 06:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
-        </div>
-      </article>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Dubfire x Sinner" data-venue="Vagalume Tulum" data-meta="20/12/25 · 15:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/Vagalumebeachclub.png">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-dubfire-sinner-tulum.png" alt="Buy tickets for Dubfire x Sinner electronic music event in Tulum" loading="lazy" />
     </div>
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="NEW YEAR FEST" data-venue="Vagalume — Tulum" data-meta="01 JAN · 18:00 - 02:00" data-image="https://images.unsplash.com/photo-1610900538035-b04c4d957d9f?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/photo-1610900538035-b04c4d957d9f?auto=format&fit=crop&w=800&q=80" alt="NEW YEAR FEST" loading="lazy" />
+    <div class="poster-body">
+      <div class="poster-title">Dubfire x Sinner</div>
+      <div class="poster-sub">Vagalume Tulum</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">20 <span>12/25</span></div>
         </div>
-        <div class="poster-body">
-          <div class="poster-title">NEW YEAR FEST</div>
-          <div class="poster-sub">Vagalume — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">01 <span>JAN</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">18:00 - 02:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">15:00</div>
         </div>
-      </article>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/45927/1323803" target="_blank" rel="noopener">Comprar tickets</a>
     </div>
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="DISCO BALL" data-venue="Papaya Playa — Tulum" data-meta="03 JAN · 21:00 - 03:00" data-image="https://images.unsplash.com/photo-1560987617-6de57e3d0574?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/photo-1560987617-6de57e3d0574?auto=format&fit=crop&w=800&q=80" alt="DISCO BALL" loading="lazy" />
-        </div>
-        <div class="poster-body">
-          <div class="poster-title">DISCO BALL</div>
-          <div class="poster-sub">Papaya Playa — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">03 <span>JAN</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">21:00 - 03:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
-        </div>
-      </article>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Christmas Dinner – Gitano Beach" data-venue="Gitano Beach" data-meta="24/12/25 · 19:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/gitano-beach-tulum-mesas.jpg">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-christmas-dinner-gitano-beach-tulum.jpg" alt="Buy tickets for Christmas Dinner at Gitano Beach Tulum music and dining experience" loading="lazy" />
     </div>
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="JUNGLE EXPERIENCE" data-venue="Casa Jaguar — Tulum" data-meta="05 JAN · 19:00 - 01:00" data-image="https://images.unsplash.com/photo-1761574030105-c5b4dc65a76d?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/photo-1761574030105-c5b4dc65a76d?auto=format&fit=crop&w=800&q=80" alt="JUNGLE EXPERIENCE" loading="lazy" />
+    <div class="poster-body">
+      <div class="poster-title">Christmas Dinner – Gitano Beach</div>
+      <div class="poster-sub">Gitano Beach</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">24 <span>12/25</span></div>
         </div>
-        <div class="poster-body">
-          <div class="poster-title">JUNGLE EXPERIENCE</div>
-          <div class="poster-sub">Casa Jaguar — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">05 <span>JAN</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">19:00 - 01:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">19:00</div>
         </div>
-      </article>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/46564/811305" target="_blank" rel="noopener">Comprar tickets</a>
     </div>
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="LIVE MUSIC" data-venue="Gitano — Tulum" data-meta="07 JAN · 20:00 - 00:00" data-image="https://images.unsplash.com/photo-1561264819-1ccc1c6e0ae9?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/photo-1561264819-1ccc1c6e0ae9?auto=format&fit=crop&w=800&q=80" alt="LIVE MUSIC" loading="lazy" />
-        </div>
-        <div class="poster-body">
-          <div class="poster-title">LIVE MUSIC</div>
-          <div class="poster-sub">Gitano — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">07 <span>JAN</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">20:00 - 00:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
-        </div>
-      </article>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Christmas Dinner – Gitano Jungle" data-venue="Gitano Jungle" data-meta="24/12/25 · 19:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/gitano-beach-tulum-mesas.jpg">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-christmas-dinner-gitano-jungle-tulum.webp.jpg" alt="Buy tickets for Christmas Dinner at Gitano Jungle Tulum immersive jungle dinner event" loading="lazy" />
     </div>
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="SUNSET DANCE" data-venue="Zamna — Tulum" data-meta="10 JAN · 17:00 - 22:00" data-image="https://images.unsplash.com/flagged/photo-1575388106348-c1d50da20bfb?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/flagged/photo-1575388106348-c1d50da20bfb?auto=format&fit=crop&w=800&q=80" alt="SUNSET DANCE" loading="lazy" />
+    <div class="poster-body">
+      <div class="poster-title">Christmas Dinner – Gitano Jungle</div>
+      <div class="poster-sub">Gitano Jungle</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">24 <span>12/25</span></div>
         </div>
-        <div class="poster-body">
-          <div class="poster-title">SUNSET DANCE</div>
-          <div class="poster-sub">Zamna — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">10 <span>JAN</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">17:00 - 22:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">19:00</div>
         </div>
-      </article>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/46560/811305" target="_blank" rel="noopener">Comprar tickets</a>
     </div>
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="MOONLIGHT VIBES" data-venue="Gitano — Tulum" data-meta="12 JAN · 20:00 - 02:00" data-image="https://images.unsplash.com/photo-1459749411175-04bf5292ceea?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/photo-1459749411175-04bf5292ceea?auto=format&fit=crop&w=800&q=80" alt="MOONLIGHT VIBES" loading="lazy" />
-        </div>
-        <div class="poster-body">
-          <div class="poster-title">MOONLIGHT VIBES</div>
-          <div class="poster-sub">Gitano — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">12 <span>JAN</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">20:00 - 02:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
-        </div>
-      </article>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Dubfire x Sinner" data-venue="Vagalume Tulum" data-meta="20/12/25 · 15:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/Vagalumebeachclub.png">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-dubfire-sinner-tulum.png" alt="Buy tickets for Dubfire x Sinner electronic music event in Tulum" loading="lazy" />
     </div>
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="ELECTRO SUNRISE" data-venue="Tantra — Tulum" data-meta="14 JAN · 05:00 - 09:00" data-image="https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=800&q=80" alt="ELECTRO SUNRISE" loading="lazy" />
+    <div class="poster-body">
+      <div class="poster-title">Dubfire x Sinner</div>
+      <div class="poster-sub">Vagalume Tulum</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">20 <span>12/25</span></div>
         </div>
-        <div class="poster-body">
-          <div class="poster-title">ELECTRO SUNRISE</div>
-          <div class="poster-sub">Tantra — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">14 <span>JAN</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">05:00 - 09:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">15:00</div>
         </div>
-      </article>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/45927/1323803" target="_blank" rel="noopener">Comprar tickets</a>
     </div>
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="BOHO GROOVES" data-venue="Casa Malca — Tulum" data-meta="16 JAN · 18:00 - 23:00" data-image="https://images.unsplash.com/photo-1470229538611-16ba8c7ffbd7?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/photo-1470229538611-16ba8c7ffbd7?auto=format&fit=crop&w=800&q=80" alt="BOHO GROOVES" loading="lazy" />
-        </div>
-        <div class="poster-body">
-          <div class="poster-title">BOHO GROOVES</div>
-          <div class="poster-sub">Casa Malca — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">16 <span>JAN</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">18:00 - 23:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
-        </div>
-      </article>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Christmas Dinner – Gitano Beach" data-venue="Gitano Beach" data-meta="24/12/25 · 19:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/gitano-beach-tulum-mesas.jpg">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-christmas-dinner-gitano-beach-tulum.jpg" alt="Buy tickets for Christmas Dinner at Gitano Beach Tulum music and dining experience" loading="lazy" />
     </div>
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="NIGHT BLOOM" data-venue="Vagalume — Tulum" data-meta="18 JAN · 22:00 - 03:00" data-image="https://images.unsplash.com/photo-1464375117522-1311d6a5b81f?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/photo-1464375117522-1311d6a5b81f?auto=format&fit=crop&w=800&q=80" alt="NIGHT BLOOM" loading="lazy" />
+    <div class="poster-body">
+      <div class="poster-title">Christmas Dinner – Gitano Beach</div>
+      <div class="poster-sub">Gitano Beach</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">24 <span>12/25</span></div>
         </div>
-        <div class="poster-body">
-          <div class="poster-title">NIGHT BLOOM</div>
-          <div class="poster-sub">Vagalume — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">18 <span>JAN</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">22:00 - 03:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">19:00</div>
         </div>
-      </article>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/46564/811305" target="_blank" rel="noopener">Comprar tickets</a>
     </div>
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="MYSTIC WAVES" data-venue="Papaya Playa — Tulum" data-meta="20 JAN · 20:00 - 02:00" data-image="https://images.unsplash.com/photo-1526481280695-3c469c2fcd1c?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/photo-1526481280695-3c469c2fcd1c?auto=format&fit=crop&w=800&q=80" alt="MYSTIC WAVES" loading="lazy" />
-        </div>
-        <div class="poster-body">
-          <div class="poster-title">MYSTIC WAVES</div>
-          <div class="poster-sub">Papaya Playa — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">20 <span>JAN</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">20:00 - 02:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
-        </div>
-      </article>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Christmas Dinner – Gitano Jungle" data-venue="Gitano Jungle" data-meta="24/12/25 · 19:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/gitano-beach-tulum-mesas.jpg">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-christmas-dinner-gitano-jungle-tulum.webp.jpg" alt="Buy tickets for Christmas Dinner at Gitano Jungle Tulum immersive jungle dinner event" loading="lazy" />
     </div>
-    <div class="swiper-slide">
-      <article class="poster-card" data-title="ELECTRIC OASIS" data-venue="Bonbonniere — Tulum" data-meta="22 JAN · 21:00 - 04:00" data-image="https://images.unsplash.com/photo-1489515217757-5fd1be406fef?auto=format&fit=crop&w=800&q=80">
-        <span class="glow"></span>
-        <div class="poster-img">
-          <img src="https://images.unsplash.com/photo-1489515217757-5fd1be406fef?auto=format&fit=crop&w=800&q=80" alt="ELECTRIC OASIS" loading="lazy" />
+    <div class="poster-body">
+      <div class="poster-title">Christmas Dinner – Gitano Jungle</div>
+      <div class="poster-sub">Gitano Jungle</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">24 <span>12/25</span></div>
         </div>
-        <div class="poster-body">
-          <div class="poster-title">ELECTRIC OASIS</div>
-          <div class="poster-sub">Bonbonniere — Tulum</div>
-          <div class="poster-meta">
-            <div>
-              <div class="label">Date</div>
-              <div class="value">22 <span>JAN</span></div>
-            </div>
-            <div>
-              <div class="label">Time</div>
-              <div class="value">21:00 - 04:00</div>
-            </div>
-          </div>
-          <a class="poster-buy" href="https://www.ticketfairy.com/r/46743/1323803" target="_blank" rel="noopener">Comprar tickets</a>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">19:00</div>
         </div>
-      </article>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/46560/811305" target="_blank" rel="noopener">Comprar tickets</a>
     </div>
-  </div>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Dubfire x Sinner" data-venue="Vagalume Tulum" data-meta="20/12/25 · 15:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/Vagalumebeachclub.png">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-dubfire-sinner-tulum.png" alt="Buy tickets for Dubfire x Sinner electronic music event in Tulum" loading="lazy" />
+    </div>
+    <div class="poster-body">
+      <div class="poster-title">Dubfire x Sinner</div>
+      <div class="poster-sub">Vagalume Tulum</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">20 <span>12/25</span></div>
+        </div>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">15:00</div>
+        </div>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/45927/1323803" target="_blank" rel="noopener">Comprar tickets</a>
+    </div>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Christmas Dinner – Gitano Beach" data-venue="Gitano Beach" data-meta="24/12/25 · 19:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/gitano-beach-tulum-mesas.jpg">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-christmas-dinner-gitano-beach-tulum.jpg" alt="Buy tickets for Christmas Dinner at Gitano Beach Tulum music and dining experience" loading="lazy" />
+    </div>
+    <div class="poster-body">
+      <div class="poster-title">Christmas Dinner – Gitano Beach</div>
+      <div class="poster-sub">Gitano Beach</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">24 <span>12/25</span></div>
+        </div>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">19:00</div>
+        </div>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/46564/811305" target="_blank" rel="noopener">Comprar tickets</a>
+    </div>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Christmas Dinner – Gitano Jungle" data-venue="Gitano Jungle" data-meta="24/12/25 · 19:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/gitano-beach-tulum-mesas.jpg">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-christmas-dinner-gitano-jungle-tulum.webp.jpg" alt="Buy tickets for Christmas Dinner at Gitano Jungle Tulum immersive jungle dinner event" loading="lazy" />
+    </div>
+    <div class="poster-body">
+      <div class="poster-title">Christmas Dinner – Gitano Jungle</div>
+      <div class="poster-sub">Gitano Jungle</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">24 <span>12/25</span></div>
+        </div>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">19:00</div>
+        </div>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/46560/811305" target="_blank" rel="noopener">Comprar tickets</a>
+    </div>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Dubfire x Sinner" data-venue="Vagalume Tulum" data-meta="20/12/25 · 15:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/Vagalumebeachclub.png">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-dubfire-sinner-tulum.png" alt="Buy tickets for Dubfire x Sinner electronic music event in Tulum" loading="lazy" />
+    </div>
+    <div class="poster-body">
+      <div class="poster-title">Dubfire x Sinner</div>
+      <div class="poster-sub">Vagalume Tulum</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">20 <span>12/25</span></div>
+        </div>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">15:00</div>
+        </div>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/45927/1323803" target="_blank" rel="noopener">Comprar tickets</a>
+    </div>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Christmas Dinner – Gitano Beach" data-venue="Gitano Beach" data-meta="24/12/25 · 19:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/gitano-beach-tulum-mesas.jpg">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-christmas-dinner-gitano-beach-tulum.jpg" alt="Buy tickets for Christmas Dinner at Gitano Beach Tulum music and dining experience" loading="lazy" />
+    </div>
+    <div class="poster-body">
+      <div class="poster-title">Christmas Dinner – Gitano Beach</div>
+      <div class="poster-sub">Gitano Beach</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">24 <span>12/25</span></div>
+        </div>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">19:00</div>
+        </div>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/46564/811305" target="_blank" rel="noopener">Comprar tickets</a>
+    </div>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Christmas Dinner – Gitano Jungle" data-venue="Gitano Jungle" data-meta="24/12/25 · 19:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/gitano-beach-tulum-mesas.jpg">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-christmas-dinner-gitano-jungle-tulum.webp.jpg" alt="Buy tickets for Christmas Dinner at Gitano Jungle Tulum immersive jungle dinner event" loading="lazy" />
+    </div>
+    <div class="poster-body">
+      <div class="poster-title">Christmas Dinner – Gitano Jungle</div>
+      <div class="poster-sub">Gitano Jungle</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">24 <span>12/25</span></div>
+        </div>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">19:00</div>
+        </div>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/46560/811305" target="_blank" rel="noopener">Comprar tickets</a>
+    </div>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Dubfire x Sinner" data-venue="Vagalume Tulum" data-meta="20/12/25 · 15:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/Vagalumebeachclub.png">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-dubfire-sinner-tulum.png" alt="Buy tickets for Dubfire x Sinner electronic music event in Tulum" loading="lazy" />
+    </div>
+    <div class="poster-body">
+      <div class="poster-title">Dubfire x Sinner</div>
+      <div class="poster-sub">Vagalume Tulum</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">20 <span>12/25</span></div>
+        </div>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">15:00</div>
+        </div>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/45927/1323803" target="_blank" rel="noopener">Comprar tickets</a>
+    </div>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Christmas Dinner – Gitano Beach" data-venue="Gitano Beach" data-meta="24/12/25 · 19:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/gitano-beach-tulum-mesas.jpg">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-christmas-dinner-gitano-beach-tulum.jpg" alt="Buy tickets for Christmas Dinner at Gitano Beach Tulum music and dining experience" loading="lazy" />
+    </div>
+    <div class="poster-body">
+      <div class="poster-title">Christmas Dinner – Gitano Beach</div>
+      <div class="poster-sub">Gitano Beach</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">24 <span>12/25</span></div>
+        </div>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">19:00</div>
+        </div>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/46564/811305" target="_blank" rel="noopener">Comprar tickets</a>
+    </div>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Christmas Dinner – Gitano Jungle" data-venue="Gitano Jungle" data-meta="24/12/25 · 19:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/gitano-beach-tulum-mesas.jpg">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-christmas-dinner-gitano-jungle-tulum.webp.jpg" alt="Buy tickets for Christmas Dinner at Gitano Jungle Tulum immersive jungle dinner event" loading="lazy" />
+    </div>
+    <div class="poster-body">
+      <div class="poster-title">Christmas Dinner – Gitano Jungle</div>
+      <div class="poster-sub">Gitano Jungle</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">24 <span>12/25</span></div>
+        </div>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">19:00</div>
+        </div>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/46560/811305" target="_blank" rel="noopener">Comprar tickets</a>
+    </div>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Dubfire x Sinner" data-venue="Vagalume Tulum" data-meta="20/12/25 · 15:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/Vagalumebeachclub.png">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-dubfire-sinner-tulum.png" alt="Buy tickets for Dubfire x Sinner electronic music event in Tulum" loading="lazy" />
+    </div>
+    <div class="poster-body">
+      <div class="poster-title">Dubfire x Sinner</div>
+      <div class="poster-sub">Vagalume Tulum</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">20 <span>12/25</span></div>
+        </div>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">15:00</div>
+        </div>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/45927/1323803" target="_blank" rel="noopener">Comprar tickets</a>
+    </div>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Christmas Dinner – Gitano Beach" data-venue="Gitano Beach" data-meta="24/12/25 · 19:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/gitano-beach-tulum-mesas.jpg">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-christmas-dinner-gitano-beach-tulum.jpg" alt="Buy tickets for Christmas Dinner at Gitano Beach Tulum music and dining experience" loading="lazy" />
+    </div>
+    <div class="poster-body">
+      <div class="poster-title">Christmas Dinner – Gitano Beach</div>
+      <div class="poster-sub">Gitano Beach</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">24 <span>12/25</span></div>
+        </div>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">19:00</div>
+        </div>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/46564/811305" target="_blank" rel="noopener">Comprar tickets</a>
+    </div>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Christmas Dinner – Gitano Jungle" data-venue="Gitano Jungle" data-meta="24/12/25 · 19:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/gitano-beach-tulum-mesas.jpg">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-christmas-dinner-gitano-jungle-tulum.webp.jpg" alt="Buy tickets for Christmas Dinner at Gitano Jungle Tulum immersive jungle dinner event" loading="lazy" />
+    </div>
+    <div class="poster-body">
+      <div class="poster-title">Christmas Dinner – Gitano Jungle</div>
+      <div class="poster-sub">Gitano Jungle</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">24 <span>12/25</span></div>
+        </div>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">19:00</div>
+        </div>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/46560/811305" target="_blank" rel="noopener">Comprar tickets</a>
+    </div>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Dubfire x Sinner" data-venue="Vagalume Tulum" data-meta="20/12/25 · 15:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/Vagalumebeachclub.png">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-dubfire-sinner-tulum.png" alt="Buy tickets for Dubfire x Sinner electronic music event in Tulum" loading="lazy" />
+    </div>
+    <div class="poster-body">
+      <div class="poster-title">Dubfire x Sinner</div>
+      <div class="poster-sub">Vagalume Tulum</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">20 <span>12/25</span></div>
+        </div>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">15:00</div>
+        </div>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/45927/1323803" target="_blank" rel="noopener">Comprar tickets</a>
+    </div>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Christmas Dinner – Gitano Beach" data-venue="Gitano Beach" data-meta="24/12/25 · 19:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/gitano-beach-tulum-mesas.jpg">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-christmas-dinner-gitano-beach-tulum.jpg" alt="Buy tickets for Christmas Dinner at Gitano Beach Tulum music and dining experience" loading="lazy" />
+    </div>
+    <div class="poster-body">
+      <div class="poster-title">Christmas Dinner – Gitano Beach</div>
+      <div class="poster-sub">Gitano Beach</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">24 <span>12/25</span></div>
+        </div>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">19:00</div>
+        </div>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/46564/811305" target="_blank" rel="noopener">Comprar tickets</a>
+    </div>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Christmas Dinner – Gitano Jungle" data-venue="Gitano Jungle" data-meta="24/12/25 · 19:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/gitano-beach-tulum-mesas.jpg">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-christmas-dinner-gitano-jungle-tulum.webp.jpg" alt="Buy tickets for Christmas Dinner at Gitano Jungle Tulum immersive jungle dinner event" loading="lazy" />
+    </div>
+    <div class="poster-body">
+      <div class="poster-title">Christmas Dinner – Gitano Jungle</div>
+      <div class="poster-sub">Gitano Jungle</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">24 <span>12/25</span></div>
+        </div>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">19:00</div>
+        </div>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/46560/811305" target="_blank" rel="noopener">Comprar tickets</a>
+    </div>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Dubfire x Sinner" data-venue="Vagalume Tulum" data-meta="20/12/25 · 15:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/Vagalumebeachclub.png">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-dubfire-sinner-tulum.png" alt="Buy tickets for Dubfire x Sinner electronic music event in Tulum" loading="lazy" />
+    </div>
+    <div class="poster-body">
+      <div class="poster-title">Dubfire x Sinner</div>
+      <div class="poster-sub">Vagalume Tulum</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">20 <span>12/25</span></div>
+        </div>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">15:00</div>
+        </div>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/45927/1323803" target="_blank" rel="noopener">Comprar tickets</a>
+    </div>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Christmas Dinner – Gitano Beach" data-venue="Gitano Beach" data-meta="24/12/25 · 19:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/gitano-beach-tulum-mesas.jpg">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-christmas-dinner-gitano-beach-tulum.jpg" alt="Buy tickets for Christmas Dinner at Gitano Beach Tulum music and dining experience" loading="lazy" />
+    </div>
+    <div class="poster-body">
+      <div class="poster-title">Christmas Dinner – Gitano Beach</div>
+      <div class="poster-sub">Gitano Beach</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">24 <span>12/25</span></div>
+        </div>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">19:00</div>
+        </div>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/46564/811305" target="_blank" rel="noopener">Comprar tickets</a>
+    </div>
+  </article>
+</div>
+
+<div class="swiper-slide">
+  <article class="poster-card" data-title="Christmas Dinner – Gitano Jungle" data-venue="Gitano Jungle" data-meta="24/12/25 · 19:00" data-image="https://epicglobalconcierge.com/wp-content/uploads/2025/12/gitano-beach-tulum-mesas.jpg">
+    <span class="glow"></span>
+    <div class="poster-img">
+      <img src="https://epicglobalconcierge.com/wp-content/uploads/2025/12/comprar-entradas-christmas-dinner-gitano-jungle-tulum.webp.jpg" alt="Buy tickets for Christmas Dinner at Gitano Jungle Tulum immersive jungle dinner event" loading="lazy" />
+    </div>
+    <div class="poster-body">
+      <div class="poster-title">Christmas Dinner – Gitano Jungle</div>
+      <div class="poster-sub">Gitano Jungle</div>
+      <div class="poster-meta">
+        <div>
+          <div class="label">Date</div>
+          <div class="value">24 <span>12/25</span></div>
+        </div>
+        <div>
+          <div class="label">Time</div>
+          <div class="value">19:00</div>
+        </div>
+      </div>
+      <a class="poster-buy" href="https://www.ticketfairy.com/r/46560/811305" target="_blank" rel="noopener">Comprar tickets</a>
+    </div>
+  </article>
+</div>
+  
   <div class="swiper-button-prev"></div>
   <div class="swiper-button-next"></div>
 </div>
